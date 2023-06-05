@@ -1,2 +1,2 @@
-# landing-page
-Basic landing page using mailchimp
+# Landing-page
+-Basic landing page using mailchimp
